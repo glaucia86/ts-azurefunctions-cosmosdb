@@ -1,0 +1,17 @@
+{
+  "name": "ts-azurefunctions-cosmosdb",
+  "version": "1.0.0",
+  "description": "A repository for demonstrating how to use TypeScript with Azure Functions and Azure Cosmos DB API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Glaucia Lemos | Twitter: <@glaucia_lemos86>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
